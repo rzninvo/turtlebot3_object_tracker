@@ -1,0 +1,9 @@
+string label
+---
+float64 bb_cx
+float64 bb_cy
+float64 bb_width
+float64 bb_height
+float64 img_width
+float64 img_height
+string flag
